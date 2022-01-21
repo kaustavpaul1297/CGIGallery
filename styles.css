@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #000;
+  background: linear-gradient(rgb(0, 7, 7), rgb(80, 74, 74));
   min-height: 100vh;
   display: flex;
   justify-content: center;
